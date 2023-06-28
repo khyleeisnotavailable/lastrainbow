@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+
+#grad1 {
+  background-image: linear-gradient(to right, 	#ffc1cc ,#ff9966,#fdfd96,#a0d6b4,#73a9c2,#ccccff,#d8bfd8);
+  	line-height: 500%;
+}
+
+h1 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+h1.a {
+	color:white;
+	font-family:Brush Script MT;
+    text-align: center;
+    	font-size: 250%;
+}
+span.j {
+	float: left;
+	font-size: 400%;
+	font-family: Bookman Old Style;
+	line-height: 70%;
+}
+mark.a { 
+  background-color:	#b31b1b;
+  color:#ffbcd9;
+  
+}
+span.e {
+	float: left;
+	font-size: 400%;
+	font-family:Bookman Old Style;
+	line-height: 77%;
+}
+mark.b { 
+  background-color:#e25822;
+  color:#f3e5ab;
+}
+span.o {
+	float: left;
+	font-size: 400%;
+	font-family: Bookman Old Style;
+	line-height: 75%;
+}
+mark.c { 
+  background-color:#eee600;
+  color:#fffdd0;
+}
+span.nn {
+	float: left;
+	font-size: 400%;
+	font-family:Bookman Old Style;
+	line-height: 75%;
+}
+mark.d { 
+  background-color:#014421;
+  color: #d0f0c0;
+}
+span.g {
+	float: left;
+	font-size: 400%;
+	font-family:Bookman Old Style;
+	line-height: 75%;
+}
+mark.e { 
+  background-color: #417dc1;
+  color: #afeeee;
+}
+span.i {
+	float: left;
+	font-size: 400%;
+	font-family:Bookman Old Style;
+	line-height: 75%;
+}
+mark.f { 
+  background-color:	#b19cd9;
+  color:#8a496b;
+}
+span.n {
+	float: left;
+	font-size: 400%;
+	font-family:Bookman Old Style;
+	line-height: 75%;
+}
+mark.g { 
+  background-color:#cb99c9;
+  color:#663854;
+}
+
+#redDIV {
+	height:50px;
+    background-color:#ffc1cc;
+}
+
+#orangeDIV {
+	height:50px;
+    background-color:#ff9966;
+}
+
+#yellowDIV {
+	height:50px;
+    background-color:#fdfd96;
+}
+
+#greenDIV {
+	height:50px;
+    background-color:#a0d6b4;
+}
+
+#blueDIV {
+	height:50px;
+    background-color:#73a9c2;
+}
+
+#indigoDIV {
+	height:50px;
+    background-color:#ccccff;
+}
+
+#violetDIV {
+	height:50px;
+    background-color:#d8bfd8;
+}
+</style>
+<body>
+<div id="grad1">
+<h1 class="a">Colors of the Rainbow</h1>
+</div>
+<hr>
+<br>
+<div id="redDIV">
+<p class="j" title="Red symbolizes love, passion, danger, power, and excitement."><span class="j"><mark class="a">R</span></mark>
+</div> 
+</mark>
+
+<br> 
+<div id="orangeDIV">
+<p class="e" title="Orange represents a range of emotions, meanings, and associations, from positive to negative."><span class="e"><mark class="b">O</span></mark>
+</div>
+<br>
+
+<div id="yellowDIV">
+<p class="o" title="Yellow symbolizes happiness, optimism, energy, intellect, and creativity."><span class="o"><mark class="c">Y</span>
+</mark>
+</div>
+<br>
+
+<div id="greenDIV">
+<p class="nn" title="Green symbolizes nature, growth, harmony, freshness, and fertility."><span class="nn"><mark class="d">G</span>
+</mark>
+</div>
+<br>
+
+<div id="blueDIV">
+<p class="g" title="Blue symbolizes wisdom, trust, loyalty, serenity, and depression."><span class="g"><mark class="e">B</span>
+</mark>
+</div>
+<br>
+
+<div id="indigoDIV">
+<p class="i" title="Indigo is the color of wisdom, power, and spiritual awareness."><span class="i"><mark class="f">I</span>
+</mark>
+</div>
+<br>
+
+<div id="violetDIV">
+<p class="n" title="Violet is the color of creativity, wisdom, sensitivity, and spirituality."><span class="n"><mark class="g">V</span>
+</div>
+</mark>
+
+</body>
+</html>
